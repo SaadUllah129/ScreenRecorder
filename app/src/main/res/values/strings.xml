@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">androidScreenRecorder</string>
+    <string name="start_recording">START</string>
+    <string name="stop_recording">STOP</string>
+    <string name="standard_definition">SD</string>
+    <string name="high_definition">HD</string>
+    <string name="audio">AUDIO</string>
+    <string name="user_cancelled">You have cancelled screen recording.</string>
+</resources>
